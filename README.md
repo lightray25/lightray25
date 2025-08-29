@@ -1,6 +1,6 @@
 ## Welcome to my Page 👋
 
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="left">A passionate frontend developer from Germany</h3>
 
 <h3 align="left">Frontend language:</h3>
 
